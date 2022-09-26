@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Facu
 
 - 🔭 I’m currently working as a Data Engineer @ Iconsulting
-- 🌱 I’m currently studying AI at University of Bologna
+- 🌱 I’m currently studying AI @ University of Bologna
 
 - 👀 I’m interested in Data Science, Combinatorial Optimization and Deep Learning. I love working with data 😄. 
 
