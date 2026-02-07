@@ -1,7 +1,7 @@
 ### Hi there, I’m Facu 👋
 
-- 🌱 I’m currently studying AI @ University of Bologna
+- 🌱 Studied AI @ University of Bologna, currently building @ PandasAI (YC24)
 
 - 👀 I’m interested in LLM and Diffusion Models, especially in how to fine-tune them efficiently.
 
-- 📫 How to reach me: facundo.maidana@studio.unibo.it
+- 📫 How to reach me: maidacundo@gmail.com
